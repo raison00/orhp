@@ -5,12 +5,12 @@ oracle hp static structure
 
 ### *dist directory:* orhp/dist/
 This folder contains the initial markup of the hp - using no framework to achieve layout and sketch out the components needed for the page.
-Some Font Awesome Icons are used, they are not the expected icons, but a close standin.
+Some Font Awesome Icons are used, they are not the expected icons, but a close stand-in.
 
 ***
 
 ### *orhp directory:* orhp/orhp/
-This folder contains the initial workin template of the hp - using vue framework to achieve layout and sketch out the components needed for the page.
+This folder contains the initial working template of the hp - using vue framework to achieve layout and sketch out the components needed for the page.
 Font Awesome Icons are not hooked up in vue, but will be used in final product
 
 ***
