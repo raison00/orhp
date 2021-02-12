@@ -1,6 +1,8 @@
 # orhp
 oracle hp static structure
 
+[sliding test ](http://www.feliciachamberlain.com/oracle-hp/orhp-sliding-test-v1/dist/index.html)
+
 ## Contents:
 
 ### *dist directory:* orhp/dist/
@@ -30,4 +32,4 @@ Font Awesome Icons are not hooked up in vue, but will be used in final product
 #### sketch out the hp structure and motion, click to view.
 [![Sketch 3](http://img.youtube.com/vi/M8F3h1mxxOc/0.jpg)](https://www.youtube.com/watch?v=M8F3h1mxxOc "sketch2")
 
-![hp](http://www.feliciachamberlain.com/oracle-hp/images/orhp-fc.png)
+[![hp](http://www.feliciachamberlain.com/oracle-hp/images/orhp-fc.png)](http://www.feliciachamberlain.com/oracle-hp/orhp-sliding-test-v1/dist/index.html)
